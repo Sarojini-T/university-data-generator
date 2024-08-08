@@ -15,9 +15,6 @@ Features
 
 Technologies Used
 * Frontend: HTML, CSS, JavaScript
-* Modules: ES6 Modules for JavaScript organization
-* APIs: Fetch data from multiple APIs to retrieve university and weather information.
-* CSS Styling: Utilizes custom CSS for styling, including fonts and color schemes.
   
 Installation
 1. Clone the repository
